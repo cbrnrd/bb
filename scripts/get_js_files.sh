@@ -1,3 +1,4 @@
+#!/bin/bash
 ## This script gets all active js files from each subdomain in the input list
 # Tools:
 #  - httpx
